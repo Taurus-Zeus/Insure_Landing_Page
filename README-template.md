@@ -9,12 +9,12 @@
     - [Screenshot](#screenshot)
     - [Links](#links)
   - [My process](#my-process)
-    - [Built with](#built-with)
+    - [Built with](#html,ccsgit com)
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
-  - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
+  - [Author](#kenny)
+  - [Acknowledgments](#mr julius,henry and myself)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
